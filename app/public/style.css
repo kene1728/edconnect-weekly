@@ -1,0 +1,43 @@
+<style>
+h1 {
+     color:darkorange;
+     text-align:center;
+          font-size:50px;
+          font-family:Georgia, 'Times New Roman',
+          text-transformation: uppercase; 
+}
+p{
+     font-size:150% 
+}
+p{margin-right: 100px;}
+
+h2 {
+     display: none;
+}
+p.uppercase{
+     text-transform:uppercase;
+}
+a {text-decoration:underline;
+font-size:120%
+}
+a:visited{
+     color: black;
+}
+
+a:active{
+     color:brown;
+}
+ a:hover{
+      color:coral;
+ }
+#praise {
+     font: size 25px;
+}
+.jay {
+     text-align:left;
+}
+p {text-indent:20px ;
+
+}
+
+</style>
